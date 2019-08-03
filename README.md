@@ -26,10 +26,10 @@ A leetcode a day, make me happy all day.
 
 |题号|题目|题解|分析|掘金|
 |:-:|:-|:-: | :-: | :-: |
-|[1](https://leetcode-cn.com/problems/two-sum/)| 两数之和（Two Sum）| [JavaScript](./easy/1.two-sum/1.two-sum.js) | [MarkDown](./easy/1.two-sum/1.two-sum.md) | [链接](https://juejin.im/post/5d44f7ce5188255d302d03f2) |
+| 1 | [两数之和（Two Sum）](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](./easy/1.two-sum/1.two-sum.js) | [MarkDown](./easy/1.two-sum/1.two-sum.md) | [链接](https://juejin.im/post/5d44f7ce5188255d302d03f2) |
 
 <!--
-|[]()| | [JavaScript](./easy/) | [MarkDown](./easy/) | [链接]() |
+|  | []() | [JavaScript](./easy/) | [MarkDown](./easy/) | [链接]() |
 -->
 
 ---
@@ -40,7 +40,7 @@ A leetcode a day, make me happy all day.
 |:-:|:-|:-: | :-: | :-: |
 
 <!--
-|[]()| | [JavaScript](./medium/) | [MarkDown](./medium/) | [链接]() |
+|  | []() | [JavaScript](./medium/) | [MarkDown](./medium/) | [链接]() |
 -->
 
 ---
@@ -51,7 +51,7 @@ A leetcode a day, make me happy all day.
 |:-:|:-|:-: | :-: | :-: |
 
 <!--
-|[]()| | [JavaScript](./hard/) | [MarkDown](./hard/) | [链接]() |
+|  | []() | [JavaScript](./hard/) | [MarkDown](./hard/) | [链接]() |
 -->
 
 ---

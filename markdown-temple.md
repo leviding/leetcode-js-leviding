@@ -1,7 +1,7 @@
 ---
 title: 
 tags: []
-categories: []
-date: xxxx-xx-xx xx:xx:xx
+categories: [LeetCode,easy]
+date: 2019-xx-xx xx:xx:xx
 ---
 

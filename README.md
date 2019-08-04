@@ -27,6 +27,7 @@ A leetcode a day, make me happy all day.
 |题号|题目|题解|分析|掘金|
 |:-:|:-|:-: | :-: | :-: |
 | 1 | [两数之和（Two Sum）](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](./easy/1.two-sum/1.two-sum.js) | [MarkDown](./easy/1.two-sum/1.two-sum.md) | [链接](https://juejin.im/post/5d44f7ce5188255d302d03f2) |
+| 7 | [整数反转（Reverse Integer）](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](./easy/7.reverse-integer/7.reverse-integer.js) | [MarkDown](./easy/7.reverse-integer/7.reverse-integer.md) | [链接](https://juejin.im/post/5d466fec6fb9a06b0f23c671) |
 
 <!--
 |  | []() | [JavaScript](./easy/) | [MarkDown](./easy/) | [链接]() |

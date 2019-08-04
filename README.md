@@ -16,9 +16,9 @@ A leetcode a day, make me happy all day.
 
 **目录：**
 
-- [Easy](#Easy)
-- [Medium](#Medium)
-- [Hard](#Hard)
+- [Easy](#easy)
+- [Medium](#medium)
+- [Hard](#hard)
 
 ---
 

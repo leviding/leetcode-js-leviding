@@ -12,6 +12,7 @@ cd docs/.vuepress/dist
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
 
+git init
 git add -A
 git commit -m ':rocket: deploy'
 
@@ -20,3 +21,5 @@ git commit -m ':rocket: deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:leviding/leetcode-js-leviding.git master:gh-pages
+
+cd -

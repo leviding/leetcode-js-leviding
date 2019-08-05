@@ -12,7 +12,6 @@ A leetcode a day, make me happy all day.
 >
 > 本人水平有限，欢迎交流分享你的想法，欢迎大佬批评指正。
 
----
 
 **目录：**
 
@@ -20,7 +19,6 @@ A leetcode a day, make me happy all day.
 - [Medium](#medium)
 - [Hard](#hard)
 
----
 
 ### Easy
 
@@ -34,7 +32,6 @@ A leetcode a day, make me happy all day.
 |  | []() | [JavaScript](./docs/easy/) |
 -->
 
----
 
 ### Medium
 
@@ -42,13 +39,32 @@ A leetcode a day, make me happy all day.
 |:-:|:-|:-:|
 
 
----
-
 ### Hard
 
 |题号|题目|题解|
 |:-:|:-|:-:|
 
+
+## 在线阅读和开发
+
+基于 VuePress
+
+```bash
+// 安装
+$ yarn
+
+// 更新
+$ yarn upgrade
+
+// 运行
+$ yarn dev
+
+// 构建静态文件
+$ yarn build
+
+// 部署
+$ yarn deploy
+```
 
 ---
 

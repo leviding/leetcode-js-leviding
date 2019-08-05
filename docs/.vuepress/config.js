@@ -22,7 +22,7 @@ module.exports = {
     base: '/leetcode-js-leviding/',
     locales: {
         '/': {
-        lang: '简体中文',
+        lang: 'zh-CN',
         title: 'LeetCode JavaScript',
         description: 'LeviDing 的 LeetCode JavaScript 题解',
         }
@@ -43,7 +43,7 @@ module.exports = {
         },
         locales: {
           '/': {
-            lang: '简体中文',
+            lang: 'zh-CN',
             selectText: 'Languages',
             editLinkText: '在 GitHub 上编辑此页',
             title: 'LeetCode JavaScript',

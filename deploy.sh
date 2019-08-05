@@ -20,5 +20,3 @@ git commit -m ':rocket: deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:leviding/leetcode-js-leviding.git master:gh-pages
-
-cd -

@@ -1,16 +1,28 @@
-{ 
+{
   "scripts": {
-      "dev": "vuepress dev docs",
-      "build": "vuepress build docs",
-      "deploy": "./deploy.sh"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/leviding/leetcode-js-leviding.git"
-    },
-    "author": "LeviDing",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/leviding/leetcode-js-leviding/issues"
-    }
-  }
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "./deploy.sh"
+  },
+  "repository": "git+https://github.com/leviding/leetcode-js-leviding.git",
+  "author": "LeviDing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leviding/leetcode-js-leviding/issues"
+  },
+  "name": "leetcode-js-leviding",
+  "description": "LeviDing 的 LeetCode JavaScript 题解",
+  "homepage": "https://github.com/leviding/leetcode-js-leviding#readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "leetcode",
+    "javascript",
+    "leviding"
+  ]
+}

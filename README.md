@@ -67,9 +67,12 @@ $ yarn build
 $ yarn deploy
 ```
 
----
 
-**更多题解请关注**：https://github.com/leviding/leetcode-js-leviding
+## 更多题解
+
+请关注：https://github.com/leviding/leetcode-js-leviding
+
+---
 
 **加微信 `imleviding` 并填写验证信息 `算法`，加入 JavaScript 算法群，天天打卡 LeetCode。**
 

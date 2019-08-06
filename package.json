@@ -19,7 +19,9 @@
     "doc": "docs"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  },
   "keywords": [
     "leetcode",
     "javascript",

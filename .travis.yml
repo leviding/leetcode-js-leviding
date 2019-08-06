@@ -14,7 +14,6 @@ install:
   - yarn
 
 script:
-  - npm i -g vuepress
   - yarn build
 
 deploy:

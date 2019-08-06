@@ -1,0 +1,28 @@
+language: node_js
+node_js:
+  - "lts/*"
+branches:
+  only:
+    - master
+
+cache:
+  directories:
+    - node_modules
+  yarn: true
+
+install:
+  - yarn
+
+script:
+  - yarn build
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep_history: true
+  local-dir: ./docs/.vuepress/dist/ # 根据情况自定义到静态文件输出目录
+  target-branch: gh-pages
+  verbose: true
+  on:
+    branch: master

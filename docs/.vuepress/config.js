@@ -27,6 +27,7 @@ module.exports = {
         description: 'LeviDing 的 LeetCode JavaScript 题解',
         }
     },
+    ga: 'UA-92630037-1',
 
     themeConfig: {
         repo: 'leviding/leetcode-js-leviding',

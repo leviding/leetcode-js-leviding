@@ -27,7 +27,14 @@ module.exports = {
         description: 'LeviDing 的 LeetCode JavaScript 题解',
         }
     },
-    ga: 'UA-92630037-1',
+    plugins: [
+      [ 
+        '@vuepress/google-analytics',
+        {
+          'ga': 'UA-92630037-1' // UA-00000000-0
+        }
+      ]  
+    ],
 
     themeConfig: {
         repo: 'leviding/leetcode-js-leviding',

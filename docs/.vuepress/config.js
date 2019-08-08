@@ -33,7 +33,7 @@ module.exports = {
 
     plugins: [
         ['@vuepress/google-analytics', {
-          ga: 'UA-92630037-1' // UA-00000000-0
+          'ga': 'UA-92630037-1' // UA-00000000-0
         }],
         ['@vuepress/back-to-top'],
         ['@vuepress/active-header-links']

@@ -14,7 +14,7 @@ A leetcode a day, make me happy all day.
 |   |  |   |
 
 <!--
-|  | []() | [JavaScript](./docs/easy/) |
+|  | []() | [JavaScript](./medium/) |
 -->
 
 

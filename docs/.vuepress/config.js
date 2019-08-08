@@ -16,10 +16,13 @@ const hardArr = [
 module.exports = {
     title: 'LeetCode JavaScript',
     description: 'LeviDing 的 LeetCode JavaScript 题解',
+
     head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
+
     base: '/leetcode-js-leviding/',
+
     locales: {
         '/': {
         lang: 'zh-CN',
@@ -27,14 +30,18 @@ module.exports = {
         description: 'LeviDing 的 LeetCode JavaScript 题解',
         }
     },
+
     plugins: [
-      [ 
-        '@vuepress/google-analytics',
-        {
-          'ga': 'UA-92630037-1' // UA-00000000-0
-        }
-      ]  
+        ['@vuepress/google-analytics', {
+          ga: 'UA-92630037-1' // UA-00000000-0
+        }],
+        ['@vuepress/back-to-top'],
+        ['@vuepress/active-header-links']
     ],
+
+    markdown: {
+      lineNumbers: true
+    },
 
     themeConfig: {
         repo: 'leviding/leetcode-js-leviding',

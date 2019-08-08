@@ -11,12 +11,12 @@ A leetcode a day, make me happy all day.
 
 |题号|题目|题解|
 |:-:|:-|:-:|
-| 1 | [两数之和（Two Sum）](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](./easy/1.two-sum/1.two-sum.md) |
-| 7 | [整数反转（Reverse Integer）](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](./easy/7.reverse-integer/7.reverse-integer.md) |
-| 9 | [回文数（Palindrome Number）]() | [JavaScript](./easy/9.palindrome-number/9.palindrome-number.md) |
+| 1 | [两数之和（Two Sum）](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](./1.two-sum/1.two-sum.md) |
+| 7 | [整数反转（Reverse Integer）](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](./7.reverse-integer/7.reverse-integer.md) |
+| 9 | [回文数（Palindrome Number）]() | [JavaScript](./9.palindrome-number/9.palindrome-number.md) |
 
 <!--
-|  | []() | [JavaScript](./docs/easy/) |
+|  | []() | [JavaScript](./) |
 -->
 
 

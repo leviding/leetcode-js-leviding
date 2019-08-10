@@ -44,7 +44,7 @@ module.exports = {
     },
 
     themeConfig: {
-        repo: 'leviding/leetcode-js-leviding',
+        //repo: 'leviding/leetcode-js-leviding',
         docsRepo: 'leviding/leetcode-js-leviding',
         docsDir: 'docs',
         lastUpdated: '上次更新',
@@ -67,9 +67,11 @@ module.exports = {
               { text: '简单', link: '/easy/' },
               { text: '中等', link: '/medium/' },
               { text: '困难', link: '/hard/' },
-              { text: '博客', link: 'https://dingxuewen.com' },
+              { text: 'GitHub', link: 'https://github.com/leviding/leetcode-js-leviding' },
+              { text: 'LeetCode', link: 'https://leetcode-cn.com/u/leviding' },
+              { text: '我的博客', link: 'https://dingxuewen.com' },
               {
-                text: '社交',
+                text: '社交账号',
                 items: [
                   { text: '知乎', link: 'https://www.zhihu.com/people/leviding/' },
                   { text: '掘金', link: 'https://juejin.im/user/589881b7128fe1006cbbacec/posts' },

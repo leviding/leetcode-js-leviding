@@ -82,3 +82,14 @@ $ yarn deploy
 ![Wechat](https://user-images.githubusercontent.com/26959437/62408120-0ad7ae00-b5f6-11e9-867f-46e496134c83.jpeg)
 ![WechatGZH](https://user-images.githubusercontent.com/26959437/62408121-15924300-b5f6-11e9-88b5-9dfaef1dc194.jpeg)
 -->
+
+
+## Contact Me
+
+Mail: [imdingxuewen@gmail.com](mailto:imdingxuewen@gmail.com)
+
+---
+
+> Blog: [dingxuewen.com](https://dingxuewen.com/) &nbsp;&middot;&nbsp;
+> GitHub: [@LeviDing](https://github.com/leviding) &nbsp;&middot;&nbsp;
+> Twitter: [@LeviDing](https://twitter.com/xuewending)

@@ -57,11 +57,11 @@ $ yarn
 // 更新
 $ yarn upgrade
 
+// 开发
+$ yarn dev
+
 // 构建静态文件
 $ yarn build
-
-// 运行
-$ yarn dev
 
 // 部署
 $ yarn deploy

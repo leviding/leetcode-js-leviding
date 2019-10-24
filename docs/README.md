@@ -12,5 +12,5 @@ features:
   details: 分享题目解法，阐述解题思路，帮助你加深理解。欢迎加入算法学习微信群。
 - title: 广交朋友
   details: 欢迎感兴趣的同学加微信 517010193，备注「算法」拉你入群。
-footer: ISC Licensed | Copyright © 2019 LeviDing
+footer: ISC Licensed | Copyright © 2019-Present LeviDing
 ---

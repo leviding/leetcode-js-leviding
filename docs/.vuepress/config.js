@@ -3,7 +3,8 @@ const easyArr = [
     './1.two-sum/1.two-sum',
     './7.reverse-integer/7.reverse-integer',
     './9.palindrome-number/9.palindrome-number',
-    './20.valid-parentheses/20.valid-parentheses'
+    './20.valid-parentheses/20.valid-parentheses',
+    './204.count-primes/204.count-primes'
 ]
 
 const mediumArr = [

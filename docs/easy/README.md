@@ -15,6 +15,7 @@ A leetcode a day, make me happy all day.
 | 7 | [整数反转（Reverse Integer）](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](./7.reverse-integer/7.reverse-integer.md) |  |
 | 9 | [回文数（Palindrome Number）](https://leetcode-cn.com/problems/palindrome-number/) | [JavaScript](./9.palindrome-number/9.palindrome-number.md) |  |
 | 20 | [有效的括号（Valid Parentheses）](https://leetcode-cn.com/problems/valid-parentheses/) | [JavaScript](./20.valid-parentheses/20.valid-parentheses.md) | [HOT 100](https://leetcode-cn.com/problemset/hot-100/) |
+| 204 | [计数质数（Count Primes）](https://leetcode-cn.com/problems/count-primes/) | [JavaScript](./204.count-primes/204.count-primes.md) |  |
 
 <!--
 |  | []() | [JavaScript](./) |  |

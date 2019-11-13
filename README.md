@@ -6,7 +6,8 @@
 
 A leetcode a day, make me happy all day.
 
-在线阅读更方便：https://dingxuewen.com/leetcode-js-leviding/
+**在线阅读**：https://dingxuewen.com/leetcode-js-leviding/
+
 
 ## 题解
 
@@ -21,9 +22,10 @@ A leetcode a day, make me happy all day.
 
 |题号|题目|题解|
 |:-:|:-|:-:|
-| 1 | [两数之和（Two Sum）](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](./docs/easy/1.two-sum/1.two-sum.md) |
-| 7 | [整数反转（Reverse Integer）](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](./docs/easy/7.reverse-integer/7.reverse-integer.md) |
-| 9 | [回文数（Palindrome Number）]() | [JavaScript](./docs/easy/9.palindrome-number/9.palindrome-number.md) |
+| 1 | [两数之和（Two Sum）](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](./docs/easy/1.two-sum/1.two-sum.md) | [HOT 100](https://leetcode-cn.com/problemset/hot-100/) |
+| 7 | [整数反转（Reverse Integer）](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](./docs/easy/7.reverse-integer/7.reverse-integer.md) |  |
+| 9 | [回文数（Palindrome Number）](https://leetcode-cn.com/problems/palindrome-number/) | [JavaScript](./docs/easy/9.palindrome-number/9.palindrome-number.md) |  |
+| 20 | [有效的括号（Valid Parentheses）](https://leetcode-cn.com/problems/valid-parentheses/) | [JavaScript](./docs/easy/20.valid-parentheses/20.valid-parentheses.md) | [HOT 100](https://leetcode-cn.com/problemset/hot-100/) |
 
 <!--
 |  | []() | [JavaScript](./docs/easy/) |
@@ -42,7 +44,7 @@ A leetcode a day, make me happy all day.
 |:-:|:-|:-:|
 
 
-## 在线阅读和开发
+## 本地阅读和开发
 
 基于 VuePress
 

@@ -75,20 +75,15 @@ $ yarn deploy
 
 欢迎微信扫码关注我的公众号
 
-| 技术号：技术漫谈 | 生活号：字节物语 |
-| :----: | :----: |
-| <img src="./images/wechat-pub-1.jpg" width="200px"> | <img src="./images/wechat-pub-2.jpg" width="200px"> |
+| 技术号：技术漫谈 | 技术号：编程每日一题 | 个人号：丁学文 |
+| :----: | :----: | :----: |
+| <img src="https://user-images.githubusercontent.com/26959437/67535623-0955e780-f706-11e9-971d-eb418c392957.jpg" width="200px"> | <img src="https://user-images.githubusercontent.com/26959437/177953257-6f822877-320b-4950-a6c0-e821c25b51ba.jpg" width="200px"> | <img src="https://user-images.githubusercontent.com/26959437/177953236-594ac348-4616-4ae4-aa99-e14d96eb6540.jpg" width="200px"> |
 
 ---
 
 **加微信 `imleviding` 并填写验证信息 `算法`，加入 JavaScript 算法群，天天打卡 LeetCode。**
 
 本人水平有限，欢迎交流分享你的想法，欢迎大佬批评指正。
-
-<!--
-![Wechat](https://user-images.githubusercontent.com/26959437/62408120-0ad7ae00-b5f6-11e9-867f-46e496134c83.jpeg)
-![WechatGZH](https://user-images.githubusercontent.com/26959437/62408121-15924300-b5f6-11e9-88b5-9dfaef1dc194.jpeg)
--->
 
 
 ## Contact Me
